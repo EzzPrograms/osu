@@ -49,6 +49,18 @@
       <Project>{F167E17A-7DE6-4AF5-B920-A5112296C695}</Project>
       <Name>osu.Game.Rulesets.Taiko</Name>
     </ProjectReference>
+    <ProjectReference Include="..\tau\osu.Game.Rulesets.Tau\osu.Game.Rulesets.Tau.csproj">
+      <Project>{D57D64F4-6CA4-4F7E-B8F0-641D95238636}</Project>
+      <Name>osu.Game.Rulesets.Tau</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\sentakki\osu.Game.Rulesets.Sentakki\osu.Game.Rulesets.Sentakki.csproj">
+      <Project>{587C84CF-68E4-48C6-88A8-CE1F09F21A40}</Project>
+      <Name>osu.Game.Rulesets.Sentakki</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cytosu\osu.Game.Rulesets.Cytosu\osu.Game.Rulesets.Cytosu.csproj">
+      <Project>{17B0E678-FB5F-4D4B-86A1-714B207C488B}</Project>
+      <Name>osu.Game.Rulesets.Cytosu</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="iTunesArtwork" />

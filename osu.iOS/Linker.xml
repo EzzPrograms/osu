@@ -24,4 +24,13 @@
     <assembly fullname="osu.Game.Rulesets.Osu">
         <type fullname="*" />
     </assembly>
+    <assembly fullname="osu.Game.Rulesets.Sentakki">
+        <type fullname="*" />
+    </assembly>
+    <assembly fullname="osu.Game.Rulesets.Cytosu">
+        <type fullname="*" />
+    </assembly>
+    <assembly fullname="osu.Game.Rulesets.Tau">
+        <type fullname="*" />
+    </assembly>
 </linker>

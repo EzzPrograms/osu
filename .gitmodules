@@ -1,0 +1,9 @@
+[submodule "sentakki"]
+	path = sentakki
+	url = https://github.com/LumpBloom7/sentakki
+[submodule "Cytosu"]
+	path = Cytosu
+	url = https://github.com/GSculerlor/Cytosu
+[submodule "tau"]
+	path = tau
+	url = https://github.com/Altenhh/tau
